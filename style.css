@@ -1,7 +1,7 @@
 /* General styles */
 body {
   margin: 0;
-  font-family: Arial, sans-serif;
+  font-family: Proxima Nova, sans-serif;
   background-color: #f5f5f5;
   color: #333;
 }
@@ -42,7 +42,7 @@ nav a:hover {
   justify-content: center;
   height: 80vh;
   text-align: center;
-  background-image: url('https://www.pexels.com/photo/landscape-photography-of-trees-on-shoreline-457882/');
+  background-image: url('https://www.pexels.com/photo/photo-of-children-drinking-water-28101466/');
   padding: 2rem;
 }
 
@@ -105,7 +105,7 @@ nav a:hover {
 
 .hero button {
   background-color: #333;
-  color: #fff;
+  color: #FFC907;
   border: none;
   padding: 0.75rem 1.5rem;
   font-size: 1rem;
