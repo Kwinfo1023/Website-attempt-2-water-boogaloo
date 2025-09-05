@@ -1,3 +1,26 @@
+/* Hero section background image */
+.hero {
+  background-image: url('https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1500&q=80');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 400px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  padding: 40px 0;
+}
+/* White box for hero text */
+.white-box {
+  background: #fff;
+  border-radius: 20px;
+  padding: 24px 32px;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.08);
+  display: inline-block;
+  margin-top: 16px;
+}
 /* General styles */
 body {
   margin: 0;
