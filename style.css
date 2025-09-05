@@ -102,14 +102,12 @@ nav a:hover {
 }
 
 .hero img {
-  display: block;
-  margin: 0 auto 24px auto;
   object-fit: contain;
-  height: 100px;
-  width: 100px;
-  background: #fff;
-  border-radius: 16px;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+  height: 200px;
+  width: 200px;
+  margin-bottom: 16px;
+  display: block;
+  background: transparent;
 }
 
 .hero h1 {
