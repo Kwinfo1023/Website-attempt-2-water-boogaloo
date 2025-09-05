@@ -52,9 +52,12 @@ nav a:hover {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  height: 80vh;
+  min-height: 80vh;
   text-align: center;
-  background-image: url('https://www.pexels.com/photo/photo-of-children-drinking-water-28101466/');
+  background-image: url('https://images.pexels.com/photos/28101466/pexels-photo-28101466.jpeg?auto=compress&w=1500&q=80');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
   padding: 2rem;
 }
 
