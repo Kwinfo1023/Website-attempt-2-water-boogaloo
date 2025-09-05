@@ -1,17 +1,5 @@
 /* Hero section background image */
-.hero {
-  background-image: url('https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1500&q=80');
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  min-height: 400px;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  position: relative;
-  padding: 40px 0;
-}
+
 /* White box for hero text */
 .white-box {
   background: #fff;
@@ -116,7 +104,7 @@ nav a:hover {
 }
 
 .hero h1 {
-  color:#99E1D9;
+  color:#1A1A1A;
   font-size: 3rem;
   margin-bottom: 1rem;
 }
@@ -128,8 +116,8 @@ nav a:hover {
 }
 
 .hero button {
-  background-color: #333;
-  color: #FFC907;
+  background-color: #FFC907;
+  color: #333;
   border: none;
   padding: 0.75rem 1.5rem;
   font-size: 1rem;
